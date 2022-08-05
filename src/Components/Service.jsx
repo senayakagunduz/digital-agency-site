@@ -12,7 +12,6 @@ height:100% ;
   flex-direction:column ;
  }
 `;
-
 const Left=styled.div`
 width:50%;
 @media only screen and (max-width:480px){

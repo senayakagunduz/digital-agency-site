@@ -46,7 +46,7 @@ const PriceShape = styled.div`
 function App() {
   const smallScreen = window.screen.width <= 480 ? true : false;
   return (
-    <>
+    <React.Fragment>
       <Container>
         <Navbar />
         <Intro />
@@ -68,7 +68,7 @@ function App() {
         <Contact />
         <Footer />
       </Container>
-    </>
+    </React.Fragment>
   );
 }
 
