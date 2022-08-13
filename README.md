@@ -1,4 +1,6 @@
 # digital agency website
+![digital-agency1](https://user-images.githubusercontent.com/69090467/184511852-31ee3fc7-277d-461c-a3f8-38d9bb29653e.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
