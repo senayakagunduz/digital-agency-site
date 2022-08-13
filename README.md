@@ -1,3 +1,4 @@
+# digital agency website
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,5 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# digital agency website
-![products](https://user-images.githubusercontent.com/69090467/184511794-73308641-50de-4b44-8d14-e04df101b42b.png)
+
+
