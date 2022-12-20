@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/senayakagunduz.github.io/digital-agency-site/static/css/main.31d6cfe0.css",
+    "main.js": "/senayakagunduz.github.io/digital-agency-site/static/js/main.c93abd72.js",
+    "static/media/how.png": "/senayakagunduz.github.io/digital-agency-site/static/media/how.9b925d0001621ad3e749.png",
+    "static/media/womann.png": "/senayakagunduz.github.io/digital-agency-site/static/media/womann.46911c7c2e1740e0575c.png",
+    "static/media/app.png": "/senayakagunduz.github.io/digital-agency-site/static/media/app.03cab9a57e74787addc6.png",
+    "index.html": "/senayakagunduz.github.io/digital-agency-site/index.html",
+    "main.c93abd72.js.map": "/senayakagunduz.github.io/digital-agency-site/static/js/main.c93abd72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c93abd72.js"
+  ]
+}
