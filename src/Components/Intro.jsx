@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './Navbar';
+// import Navbar from './Navbar';
 import Woman from "../img/womann.png";
 import styled from 'styled-components';
 
